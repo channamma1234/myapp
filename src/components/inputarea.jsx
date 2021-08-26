@@ -15,7 +15,7 @@ return(
                 value={input.title}
             />
             <inputarea
-                name="content"
+                name="fakecontent"
                 onchange={handleChange}
                 placeholder="take a note..."
                 value={input.content}
